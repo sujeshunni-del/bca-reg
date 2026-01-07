@@ -1,0 +1,5 @@
+{
+  "name": "EuroVisa Flow",
+  "description": "A dual-interface work visa processing application featuring an Admin Back-Office with dynamic pricing configuration and a Customer Portal with AI-simulated document verification.",
+  "requestFramePermissions": []
+}
